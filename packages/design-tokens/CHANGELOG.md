@@ -1,5 +1,17 @@
 # @primer/brand-primitives
 
+## 0.21.0
+
+### Patch Changes
+
+- [#347](https://github.com/primer/brand/pull/347) [`6f8cd9d`](https://github.com/primer/brand/commit/6f8cd9d82abbe447871a78f175e52fad8b502aa4) Thanks [@rezrah](https://github.com/rezrah)! - Added new primitives for the box component
+
+  ```css
+  --brand-box-spacing-condensed
+  --brand-box-spacing-normal
+  --brand-box-spacing-spacious
+  ```
+
 ## 0.20.1
 
 ### Patch Changes
